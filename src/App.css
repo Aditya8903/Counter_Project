@@ -1,0 +1,22 @@
+.numberCount{
+    color: white;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.ButtonsSection{
+    margin: 10px 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.ButtonsSection>button{
+    margin: 0 8px;
+    padding: 18px;
+    border-radius: 8px;
+}
